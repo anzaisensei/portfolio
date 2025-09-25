@@ -27,7 +27,7 @@ Bienvenue sur mon portfolio de **développeur web junior** 🚀
 
 ## 📬 Contact
 - 📧 [anzaikun@gmail.com](mailto:anzaikun@gmail.com)  
-- 🔗 [GitHub](https://github.com/tonpseudo)  
+- 🔗 [GitHub](https://github.com/rachid-hammami)  
 - 🔗 [LinkedIn](https://linkedin.com/in/tonpseudo)  
 
 ---
