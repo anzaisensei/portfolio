@@ -21,7 +21,7 @@ Bienvenue sur mon portfolio de **développeur web junior** 🚀
 ---
 
 ## 📸 Aperçu
-![Aperçu du portfolio](screenshot.png)
+![Aperçu du portfolio](capture.png)
 
 ---
 
